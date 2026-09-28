@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "WALLIX - 4K & Live Video New Tab",
+  "version": "3.2.0",
+  "description": "Ultra-fast 60 FPS Live Video & 4K Wallpaper New Tab Dashboard with customizable search, interactive dock shortcuts, and theme presets.",
+  "action": {
+    "default_title": "WALLIX New Tab"
+  },
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}

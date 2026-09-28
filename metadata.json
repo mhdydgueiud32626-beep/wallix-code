@@ -1,0 +1,6 @@
+{
+  "name": "WALLIX - 3D Wallpapers",
+  "description": "Modern cross-platform 3D desktop wallpaper platform with interactive live WebGL shaders, 4K/8K downloads, parallax depth previews, and macOS/Windows desktop simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
